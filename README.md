@@ -11,4 +11,3 @@ Estos son mis proyectos hasta ahora:
       Realizado con Visual Studio Code usando Folium.
 
 Si quieres saber más sobre mi trabajo no dudes en visitar mis repositorios!
-(https://github.com/user-attachments/assets/14fa8cd0-bf09-4334-ac4d-6fc7afd3d997)
